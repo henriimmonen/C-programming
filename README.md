@@ -8,4 +8,4 @@ You can translate the programs with e.g. gcc ("gcc x_x.c -o x_x").
 5_4.c: Valikkopohjainen ohjelma kokonaislukutaulukon käsittelyyn.\
 6_1.c: Ohjelma kysyy käyttäjältä kokonaislukuja, jotka lisätään linkitettyyn listaan.\
 6_3.c: Linkitetty lista aliohjelmilla toteutettuna valikkopohjaisessa ohjelmassa.\
-6_4.c: Valikkopohjainen ohjelma listan hallintaan. \
+6_4.c: Valikkopohjainen ohjelma listan hallintaan.
